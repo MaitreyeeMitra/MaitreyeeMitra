@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maitreyee Mitra</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right"alt="coding"width="400"src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
+<img align="right"alt="coding"width="400"src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🌱 I’m currently learning **DBMS,Tensorflow**
 
