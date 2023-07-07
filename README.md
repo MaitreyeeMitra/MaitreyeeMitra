@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaitreyeeMitra](https://github.com/MaitreyeeMitra)
 
-- 📫 How to reach me **mitramaitreyee01@gmail.com**
+- 📫 How to reach me **maitreyeemitra37@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d8CHey_5pDjJ_lgziO3CT0jxcTbXmWTX/view?usp=sharing](https://drive.google.com/file/d/1d8CHey_5pDjJ_lgziO3CT0jxcTbXmWTX/view?usp=sharing)
 
