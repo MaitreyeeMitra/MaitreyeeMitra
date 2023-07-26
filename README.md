@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **maitreyeemitra37@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maitreyee-mitra-934204200/]
-
 - ⚡ Fun fact **I love exploring new technologies**
 
 <h3 align="left">Connect with me:</h3>
