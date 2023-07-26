@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maitreyeemitra37@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d8CHey_5pDjJ_lgziO3CT0jxcTbXmWTX/view?usp=sharing](https://drive.google.com/file/d/1d8CHey_5pDjJ_lgziO3CT0jxcTbXmWTX/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maitreyee-mitra-934204200/]
 
 - ⚡ Fun fact **I love exploring new technologies**
 
